@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Orders
+comment0.text=\r\n\ Tracks\ customer\ data\ in\ an\ array.\r\n\ @author\ Sean\ Stock\r\n\ @version\ 2.6.18\r\n
+comment1.params=
+comment1.target=Orders()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Orders\r\n
+comment2.params=firstName\ lastName\ company\ address\ city\ state\ zip\ phone\ design\ numFeatures
+comment2.target=void\ addCustomer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ Creates\ a\ new\ customer\ object\ and\ adds\ it\ to\ the\ array\r\n
+numComments=3

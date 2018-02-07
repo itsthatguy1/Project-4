@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Stores\ information\ about\ a\ customer\ and\ his/her\ order\r\n\ @author\ Sean\ Stock\r\n\ @version\ 2.6.18\r\n
+comment1.params=firstName\ lastName\ company\ address\ city\ state\ zip\ phone\ design\ numFeatures
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Customer\r\n
+comment2.params=
+comment2.target=int\ custNumGenerator()
+comment2.text=\r\n\ Generates\ a\ random\ 5\ digit\ number\ and\ returns\ it\r\n
+comment3.params=
+comment3.target=void\ printReceipt()
+comment3.text=\r\n\ Displays\ a\ receipt\ with\ information\ regarding\ an\ order\r\n
+numComments=4
