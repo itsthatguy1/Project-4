@@ -24,6 +24,7 @@ public class Customer
 
     /**
      * Constructor for objects of class Customer
+     * @param firstName, lastName, company, address, city, state, zip, phone, design, numFeatres
      */
     public Customer(String firstName, String lastName, String company, String address, String city, String state, int zip, String phone, String design, int numFeatures)
     {
@@ -45,6 +46,7 @@ public class Customer
 
     /**
      * Generates a random 5 digit number and returns it
+     * @return custNum
      */
     public int custNumGenerator()
     {

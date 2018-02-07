@@ -20,6 +20,7 @@ public class Orders
 
     /**
      * Creates a new customer object and adds it to the array
+     * @param firstName, lastName, company, address, city, state, zip, phone, design, numFeatures
      */
     public void addCustomer(String firstName, String lastName, String company, String address, String city, String state, int zip, String phone, String design, int numFeatures)
     {

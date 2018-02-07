@@ -18,6 +18,7 @@ public class Website
 
     /**
      * Constructor for objects of class Website
+     * @param design
      */
     public Website(String design)
     {
@@ -69,6 +70,8 @@ public class Website
     
     /**
      * Determines price of website based on design and number of features
+     * @param numFeatures
+     * @return price
      */
     public int getPrice(int numFeatures)
     {

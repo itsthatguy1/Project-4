@@ -1,17 +1,17 @@
 #BlueJ package file
-dependency1.from=Customer
-dependency1.to=Website
+dependency1.from=Orders
+dependency1.to=Customer
 dependency1.type=UsesDependency
-dependency2.from=Orders
-dependency2.to=Customer
+dependency2.from=Customer
+dependency2.to=Website
 dependency2.type=UsesDependency
 editor.fx.0.height=671
 editor.fx.0.width=784
 editor.fx.0.x=486
 editor.fx.0.y=187
 objectbench.height=91
-objectbench.width=450
-package.divider.horizontal=0.5997375328083989
+objectbench.width=438
+package.divider.horizontal=0.583989501312336
 package.divider.vertical=0.7962577962577962
 package.editor.height=376
 package.editor.width=652
